@@ -93,7 +93,3 @@ English (Fluent) · Hebrew (Native)
 </p>
 
 ---
-
-<p align="center">
-  <i>“Bridging reasoning and learning — towards transparent, intelligent systems.”</i>
-</p>
